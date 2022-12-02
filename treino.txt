@@ -1,0 +1,3 @@
+criando o ambiente virtual no windows python -m venv venv
+ativando o ambiente .\venv\Scripts\Activate.ps1
+docs https://docs.python.org/pt-br/3/library/unittest.html
